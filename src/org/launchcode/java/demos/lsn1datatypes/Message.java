@@ -9,7 +9,7 @@ public class Message {
         } else if (lang.equals("fr")) {
             return "Bonjour, le monde!";
         } else {
-            return "Hello, World!";
+            return "My name is, Haley!";
         }
     }
 }
