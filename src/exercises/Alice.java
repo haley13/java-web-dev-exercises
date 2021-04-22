@@ -24,8 +24,3 @@ public class Alice {
         System.out.println(modifiedFirstSentence);
     }
 }
-//if (story.contains(searchTerm)) {
-//        System.out.println("match");
-//        } else {
-//        System.out.println("no match");
-//        }

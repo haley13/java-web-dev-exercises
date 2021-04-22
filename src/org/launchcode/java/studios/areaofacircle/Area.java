@@ -10,7 +10,14 @@ public class Area {
         double radius= input.nextDouble();
         double area = Circle.getArea(radius);
 
+
         System.out.println("The area of circle of radius: " + radius +  "  is:  " + area);
+        //if (.contains(searchTerm)) {
+//        System.out.println("match");
+//        } else {
+//        System.out.println("no match");
+//        }
+
     }
 }
 
