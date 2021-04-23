@@ -1,4 +1,4 @@
-package exercises;
+package exercises.controlflowandcollections;
 
 //import java.util.Scanner;
 public class ArrayPractice {

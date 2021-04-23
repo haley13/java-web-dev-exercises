@@ -3,7 +3,6 @@ package org.launchcode.java.studios.countingcharacters;
 import java.util.HashMap;
 import java.util.Map;
 
-
 public class CountingCharacters {
     public static void main(String[] args) {
         String phrase = "If the product of two terms is zero then common sense says " +
