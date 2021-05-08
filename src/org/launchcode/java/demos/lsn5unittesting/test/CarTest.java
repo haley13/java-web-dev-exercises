@@ -38,9 +38,9 @@ public class CarTest {
     }
         //TODO: can't have more gas than tank size, expect an exception
         @Test (expected = IllegalArgumentException.class)
-                public void testGasOverfillException() {
-                test_car.addGas(5);
-            fail("Shouldn't get here, car cannot have more gas in tank than the size of the tank");
+        public void testGasOverfillException() {
+        test_car.addGas(5);
+        fail("Shouldn't get here, car cannot have more gas in tank than the size of the tank");
 
     }
 }
