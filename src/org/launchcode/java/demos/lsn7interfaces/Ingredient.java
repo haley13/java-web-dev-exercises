@@ -43,4 +43,6 @@ public abstract class Ingredient {
                 "Cost: $" + cost + "\n" +
                 "Allergens: " + allergens + "\n";
     }
+
+    public abstract Comparable<String> getname();
 }
