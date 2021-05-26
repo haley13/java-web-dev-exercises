@@ -44,5 +44,5 @@ public abstract class Ingredient {
                 "Allergens: " + allergens + "\n";
     }
 
-    public abstract Comparable<String> getname();
+
 }
