@@ -11,7 +11,7 @@ public class MilesPerGallon {
         double gallons= input.nextInt();
         double mpg= miles / gallons;
 
-        System.out.println("Your distance in miles  "    + miles + " and gallons of gas "  + gallons +  " equals " + mpg + " miles per gallon");
+        System.out.println("Your distance in miles " + miles + " and gallons of gas "  + gallons +  " equals " + mpg + " miles per gallon");
 
     }
 }
